@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;1,300&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.text-app{
+    color: #2c78ba !important;
+}
+
+.text-app:hover { 
+    color: #a3acbd !important; 
+}
+
+.btn-app{
+    background-color: #134470;
+}
+
+.btn-app:hover { 
+    color: #031a2d ; 
+    background-color: #2c78ba;
+}
+
+#header{
+    background-color: #031a2d !important;
+}
+
+#header img{
+    width: 80px;   
+}
+
+#main .carousel-inner img{
+    max-height: 40vh;
+    object-fit: cover;
+    filter: grayscale(70%);
+}
+
+#carousel {
+    position: relative;
+}
+
+#carousel .overlay{
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+#carousel .overlay .container, 
+#carousel .overlay .row{
+    height: 100%;
+}
+
+body{
+    background-color: #e6eaed;
+}
+
+.features{
+    height: 400px;
+}
