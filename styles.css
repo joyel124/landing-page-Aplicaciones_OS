@@ -3,7 +3,7 @@
     font-family: 'Open Sans', sans-serif;
 }
 .text-app{
-    color: #2c78ba !important;
+    color: #40aae8 !important;
 }
 
 .text-app:hover { 
@@ -11,7 +11,7 @@
 }
 
 .btn-app{
-    background-color: #134470;
+    background-color: #438eba;
 }
 
 .btn-app:hover { 
@@ -20,7 +20,7 @@
 }
 
 #header{
-    background-color: #031a2d !important;
+    background-color: #393e41 !important;
 }
 
 #header img{
@@ -54,7 +54,7 @@
 }
 
 body{
-    background-color: #e6eaed;
+    background-color: #CBD0D3;
 }
 
 .features{
